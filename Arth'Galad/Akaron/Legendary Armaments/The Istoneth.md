@@ -10,6 +10,7 @@ The Istoneth gains the following properties:
 In addition it gains the following special properties:
 - Expansive Understanding (Su): While the Istoneth is on your person, you gain a +12 enhancement bonus to Intelligence.
 - Unknowable Predictions (Su): The Istoneth has 20 charges, regaining all charges at dawn and can cast the following spells:
+
 | Spells | Charges |
 | ------------- | ------------- |
 | Locate object | 1 |
