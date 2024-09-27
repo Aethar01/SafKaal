@@ -6,12 +6,8 @@ The Istoneth is a tome of deep scarlet red leather bound in 8 chains. It's origi
 
 The Istoneth gains the following properties:
 - The Istoneth functions as a Tome of Ancient Lore with the following changes: The competance bonus gained from persuing knowledge of a spell for 1 hour can now be applied to any knowledge check and the competance bonus increases to +15.
- 
-In addition it gains the following special properties:
 - Expansive Understanding (Su): While the Istoneth is on your person, you gain a +12 enhancement bonus to Intelligence.
 - Unknowable Predictions (Su): The Istoneth has 20 charges, regaining all charges at dawn and can cast the following spells:
-
-<center>
 
 | Spells | Charges |
 | ------------- | ------------- |
@@ -26,4 +22,4 @@ In addition it gains the following special properties:
 | Foresight | 5 |
 | Limited Wish | 10 |
 
-</center>
+- Caster Level: 30th
