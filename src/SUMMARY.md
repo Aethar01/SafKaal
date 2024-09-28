@@ -38,6 +38,11 @@
     - [Ouranos]()
         - [Kronos](./Arth'Galad/Ouranos/Kronos/Kronos.md)
     - [Pele]()
+---
+# Tavatimsa
+- [Tavatimsa](./Tavatimsa/Tavatimsa.md)
+---
+# Deities
 - [Deities]()
     - [Saf]()
         - [Everlight]()
