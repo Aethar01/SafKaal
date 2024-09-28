@@ -1,6 +1,5 @@
 # Summary
 
-# Introduction
 [Introduction](./Introduction.md)
 
 # Arth'Galad
