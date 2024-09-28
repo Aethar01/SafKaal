@@ -2,7 +2,10 @@
 
 [Introduction](./Introduction.md)
 
+---
+
 # Arth'Galad
+
 - [Arth'Galad](./Arth'Galad/Arth'Galad.md)
     - [Akaron](./Arth'Galad/Akaron.md)
         - [Andar Ikith](<./Arth'Galad/Akaron/Andar Ikith/Andar Ikith.md>)
@@ -37,11 +40,17 @@
     - [Ouranos]()
         - [Kronos](./Arth'Galad/Ouranos/Kronos/Kronos.md)
     - [Pele]()
+
 ---
+
 # Tavatimsa
+
 - [Tavatimsa](./Tavatimsa/Tavatimsa.md)
+
 ---
+
 # Deities
+
 - [Deities]()
     - [Saf]()
         - [Everlight]()
