@@ -14,3 +14,9 @@ Bâl Laud gains the following properties:
 - Food for Thought (Ex): Using the time dilation of Lucid Dreaming, if you are trained in the Lucid Dreaming skill, you can continue to design items during your sleep. While sleeping you can use a quarter of the time to continue crafting.
 - Dreamhammer (Ex): If Bâl Laud is not wielded by someone for 5 years or at its current wielder request, Bâl Laud returns to its resting place on top of an anvil in the Dreamheart. While it rests there, it broadcasts dreams to suitably skilled crafters, beckoning them to claim it.
 - Caster Level: 30th
+
+## Lesser Bâl Laud
+- +6 Skillful Spellblade (Greater Dispel Magic) Adamantine Light Hammer.
+- Whoever wields Bâl Laud can exceed market price limits with their craft feats, and can craft artifacts. Additionally when Bâl Laud’s wielder is determining the XP cost for creating any magic item, reduce the base cost by 10%.
+- CL: 20th
+

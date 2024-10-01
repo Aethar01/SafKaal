@@ -12,3 +12,8 @@ Amarthcuvo has the following properties:
 - Blindsense (Su): While hiding, you gain blindsense with a range of 30 feet.
 - Nondetection (Su): You act as if constantly under the effects of a nondetection spell, Caster level 20th.
 - Caster Level: 30th
+
+## Lesser Amarthcuvo
+- +6 Spell Resistance (19) Glamered Mithral shirt.
+- Whoever wears Amarthcuvo gains immunity to cold damage, a 90ft (clumsy) fly speed, and Blindsense 30ft.
+- CL: 20th

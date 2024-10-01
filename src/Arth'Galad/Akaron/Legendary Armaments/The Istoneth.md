@@ -23,3 +23,9 @@ The Istoneth gains the following properties:
 | Limited Wish | 10 |
 
 - Caster Level: 30th
+
+## Lesser Istoneth
+- The Istoneth has access to all information stored in the Library Úlanwa, and functions as a spellbook containing all Wizard and Cleric spells.
+- Whilst the Istoneth is on your person, you gain a +8 enhancement bonus to Intelligence.
+- Once per day, the Istoneth can be activated to cast Limited Wish.
+- CL: 20th

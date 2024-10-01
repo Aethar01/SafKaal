@@ -20,3 +20,10 @@ Sentience:
     Special Purpose: Slay Sephtis Morana
     Special Purpose Dedicated Powers: Galkaril can cast True Ressurection once per month at it's choice
     Caster Level: 30th
+
+## Lesser Galkaril
+- +6 Morphing Keen Starmetal Longsword of Dragon Dread
+- Special Purpose: Slay Sephtis Morana
+- Galkaril refuses to be wielded by anyone that doesn’t seek to fulfil its purpose, granting 3 negative levels that never result in actual level loss, but cannot be overcome in any way (including restoration spells) whilst wielded against its will.
+- Once per month, Galkaril can choose to cast True Ressurection on its wielder when they die.
+- CL: 20th

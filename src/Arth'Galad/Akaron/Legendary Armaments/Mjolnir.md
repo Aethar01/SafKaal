@@ -12,3 +12,8 @@ Enchantments:
 - Victims of a critical hit must make a Fortitude save (DC 55) or be deafened permanently.
 - Mjolnir deals 4d8 temporary Constitution damage when it is willingly picked up for the first time by a new wielder.
 - Caster Level: 30th
+
+## Lesser Mjolnir
+- +6 distance returning thundering warhammer (4d8)
+- Mjolnir weighs roughly 2 tons, and instantly slays anyone with a constitution score less than 20 the first time they successfuly lift it. When Mjolnir scores a critical hit, the target must make a Fortitude save (DC 25) or be deafened permanently.
+- CL: 20th
