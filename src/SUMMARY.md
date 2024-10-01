@@ -7,7 +7,7 @@
 # Arth'Galad
 
 - [Arth'Galad](Arth'Galad/Arth'Galad.md)
-    - [Akaron](Arth'Galad/Akaron.md)
+    - [Akaron](Arth'Galad/Akaron/Akaron.md)
         - [Andar Ikith](<Arth'Galad/Akaron/Andar Ikith/Andar Ikith.md>)
         - [Lundar](Arth'Galad/Akaron/Lundar/Lundar.md)
         - [Sindarel](Arth'Galad/Akaron/Sindarel/Sindarel.md)
